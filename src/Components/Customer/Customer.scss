@@ -1,0 +1,92 @@
+.customer {
+  width: 100%;
+  background: rgba(0, 147, 152, 0.09);
+  padding: 10px 0;
+}
+
+.customer__title {
+  font-family: "Trebuchet MS";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 47px;
+  line-height: 58px;
+  text-align: center;
+  color: #009398;
+}
+
+.experens {
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom: 90px;
+  background-color: #fff;
+}
+
+.experens__list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.experense__list-item {
+  display: flex;
+  align-items: center;
+  margin-left: 100px;
+}
+
+.experense__item-info {
+  margin-left: 15px;
+}
+
+.experense__item-img {
+  width: 108px;
+  height: 105px;
+}
+
+.experense__info-title {
+  font-family: "Trebuchet MS";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 46px;
+  color: #000000;
+}
+
+.experense__info-text {
+  font-family: "Trebuchet MS";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 18px;
+  color: #000000;
+  width: 180px;
+}
+
+.pools {
+  width: 100%;
+  background-color: #fff;
+}
+
+.pools__info {
+  display: flex;
+  justify-content: space-around;
+}
+
+.pools__info-text {
+  font-family: "Trebuchet MS";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 25px;
+  color: #000000;
+  width: 503px;
+  height: 292px;
+}
+
+.pools__info-bottom {
+    padding-top: 15px;
+}
+
+.pools__bottom-icon {
+    display: flex;
+    align-items: center;
+}
