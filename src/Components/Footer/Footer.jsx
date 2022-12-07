@@ -80,9 +80,13 @@ const Footer = () => {
               </a>
               <br />
               <p className="footer__right-address">
-                 Pahlavon Mahmud ko’chasi,
-                Yashnobod tumani, Toshkent.
+                Pahlavon Mahmud ko’chasi, Yashnobod tumani, Toshkent.
               </p>
+              <span className="footer__right-dev">
+                Developed by Support Solutions
+                <br />
+                 All rights reserved.
+              </span>
             </div>
           </div>
         </div>

@@ -178,4 +178,15 @@
   line-height: 23px;
   color: #ffffff;
   width: 260px;
+  display: block;
+  padding-bottom: 10px;
+}
+
+.footer__right-dev {
+  font-family: "Trebuchet MS";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 17px;
+  color: #ffffff;
 }/*# sourceMappingURL=Footer.css.map */

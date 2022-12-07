@@ -158,11 +158,11 @@
   line-height: 23px;
   color: #ffffff;
   display: block;
-//   padding-bottom: 5px;
+  //   padding-bottom: 5px;
 }
 
 .footer__right-num {
-    display: block;
+  display: block;
   font-family: "Trebuchet MS";
   font-style: normal;
   font-weight: 700;
@@ -179,4 +179,16 @@
   line-height: 23px;
   color: #ffffff;
   width: 260px;
+  display: block;
+  padding-bottom: 10px;
+}
+
+.footer__right-dev {
+  font-family: "Trebuchet MS";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 15px;
+  line-height: 17px;
+  color: #ffffff;
+//   margin-top: 15px;
 }
